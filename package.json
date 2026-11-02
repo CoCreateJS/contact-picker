@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CoCreateJS/CoCreate-contact-picker.git"
+    "url": "git+https://github.com/CoCreateJS/contact-picker.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-contact-picker/issues"
+    "url": "https://github.com/CoCreateJS/contact-picker/issues"
   },
-  "homepage": "https://cocreate.app/docs/contact-picker",
+  "homepage": "https://CoCreateJS.com/docs/contact-picker",
   "main": "./src/index.js",
   "dependencies": {
     "@cocreate/actions": "^1.27.0",
